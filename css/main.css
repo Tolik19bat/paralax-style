@@ -125,6 +125,5 @@ body {
 	opacity: 1;
 	font-size: calc(var(--index) * .75);
 	letter-spacing: calc(var(--index) / 37.5);
-	color:black;
 	font-weight: 500;
 }
